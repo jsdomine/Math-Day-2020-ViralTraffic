@@ -1,4 +1,6 @@
 # Viral Traffic
+
+![hello!](CONNECTIVE-DYMAX.png)
 Video Presentation: https://www.youtube.com/watch?v=97Dj2mUXucI
 
 Google Slides Link: https://docs.google.com/presentation/d/1-cclOln9xES9shQd0WSOjhqnX1IcIQzH61doUMB9-jI/edit?usp=sharing
